@@ -1,5 +1,5 @@
 import streamlit as st
-from zxcvbn import zxcvbn
+import zxcvbn
 import secrets
 import string
 
